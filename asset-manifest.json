@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/star-generator/static/css/main.b3a35896.chunk.css",
+    "main.js": "/star-generator/static/js/main.e66d1e23.chunk.js",
+    "main.js.map": "/star-generator/static/js/main.e66d1e23.chunk.js.map",
+    "runtime-main.js": "/star-generator/static/js/runtime-main.c20930e1.js",
+    "runtime-main.js.map": "/star-generator/static/js/runtime-main.c20930e1.js.map",
+    "static/js/2.8a1e4d6b.chunk.js": "/star-generator/static/js/2.8a1e4d6b.chunk.js",
+    "static/js/2.8a1e4d6b.chunk.js.map": "/star-generator/static/js/2.8a1e4d6b.chunk.js.map",
+    "index.html": "/star-generator/index.html",
+    "precache-manifest.17b17cc771a9c2837c960a8ebc1fb21e.js": "/star-generator/precache-manifest.17b17cc771a9c2837c960a8ebc1fb21e.js",
+    "service-worker.js": "/star-generator/service-worker.js",
+    "static/css/main.b3a35896.chunk.css.map": "/star-generator/static/css/main.b3a35896.chunk.css.map",
+    "static/js/2.8a1e4d6b.chunk.js.LICENSE.txt": "/star-generator/static/js/2.8a1e4d6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c20930e1.js",
+    "static/js/2.8a1e4d6b.chunk.js",
+    "static/css/main.b3a35896.chunk.css",
+    "static/js/main.e66d1e23.chunk.js"
+  ]
+}
